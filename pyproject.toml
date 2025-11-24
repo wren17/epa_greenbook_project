@@ -24,4 +24,8 @@ dependencies = [
     "doubleml>=0.10.1",
     "xlrd>=2.0.2",
     "toolz>=1.1.0",
+    "pyfixest>=0.40.0",
+    "formulaic>=1.2.1",
+    "tqdm>=4.67.1",
+    "great-tables>=0.20.0",
 ]
