@@ -28,4 +28,7 @@ dependencies = [
     "formulaic>=1.2.1",
     "tqdm>=4.67.1",
     "great-tables>=0.20.0",
+    "plotnine>=0.15.1",
+    "scpi>=2.5.1",
+    "scpi-pkg>=3.0.1",
 ]
