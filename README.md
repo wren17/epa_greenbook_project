@@ -7,6 +7,7 @@ both **economic activity** and **pollution**, using an EPA **nonattainment desig
 
 This repository provides the **code and data** used for the analysis in the paper.
 
+## Replication Instructions
 1. **Run the data cleaning notebook first**
    - Location: `data/cleaning.ipynb`
    - This notebook cleans/prepares the raw inputs.
